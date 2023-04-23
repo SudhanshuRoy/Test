@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author DELL
- *
- */
-module sampleroject {
-}
